@@ -1,3 +1,3 @@
 # libft
 
-## **Graded 125**
+## Grade *125*
