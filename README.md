@@ -87,3 +87,8 @@ In case your project and libft are in different folders provide the correct path
 - [x] `ft_lstclear`
 - [x] `ft_lstiter`
 - [x] `ft_lstmap`
+
+## To do:
+
+- Add a description in the .h file explaining in a coment below each function prototype exactly what the function is suposed to do.
+- Importance of programing good practices to keep our work easy to understand, use and manipulate in ways that can help others.
