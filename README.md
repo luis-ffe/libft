@@ -5,7 +5,7 @@ C programming can be very tedious when one doesn’t have access to the highly u
 
 Clone or download the project.
 
-#### To use, include the header
+To use, include the header
 
 Run `make` inside the project folder.
 
